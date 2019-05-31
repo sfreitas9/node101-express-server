@@ -5,11 +5,11 @@
 npm install
 ```
 ---
-## To run:
+## To run:  
 ```
 npm start
 ```
-Then go to http://localhost:3000/ and http://localhost:3000/data in your browser
+###### Then go to <http://localhost:3000/> and http://localhost:3000/data in your browser
 ---
 ## To test:
 Start the server:
